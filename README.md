@@ -1,15 +1,19 @@
 <div id="header" align="center">
   <h1 align="center"> Hi 👋, I'm Luis</h1>
-  <h3 align="center"> I'm an enthusiastic Mechatronic Engineer student from Colombia 😄, with great capacity and leadership to assume challenges and commitments 💬, Possessing effective organisational skills and excellent working knowledge of General Development (Software and Web Development) 📫, looking for a job opportunity that will enhance my personal and professional growth, allowing me to take my knowledge and skills to the next level ⚡. 
+  <h3 align="center"> I'm an enthusiastic Mechatronic Engineer student from Colombia 🇨🇴 😄, with great capacity and leadership to assume challenges and commitments 💬, Possessing effective organisational skills and excellent working knowledge of General Development (Software and Web Development) 📫, looking for a job opportunity that will enhance my personal and professional growth, allowing me to take my knowledge and skills to the next level ⚡. 
   </h3>
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.instagram.com/luis.rada.10">
-    <img src="[![Instagram](https://img.shields.io/badge/Instagram-@luis.rada.10-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]"
-      alt="Instagram Badge" />
+    <img src="https://img.shields.io/badge/Instagram-@luis.rada.10-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010"
+      alt="Instagram" />
 </div>
 
+ ---
+  
+  ##👨🏽‍💻
+ 
 <!--
 **LuisRada/LuisRada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
