@@ -24,7 +24,8 @@
  
   ### Professional Interests ✍🏽:
   - I’m currently working on two personal projects: The Online Calculator, and The Sale Store 🔭
-  - I’m currently learning ...
+  - At this moment I'm learning IA and ML to improve my personal projects 🤔
+  - You can contact me via E-mail, the one in my profile 🌱
   
   
 <!--
