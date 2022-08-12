@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1 align="center"> Hi 👋, I'm Luis</h1>
+  <h1 align="center"> Hi 👋, I'm Luis Rada</h1>
   <h3 align="center"> I'm an enthusiastic Mechatronic Engineer student from Colombia 🇨🇴 😄, with great capacity and leadership to assume challenges and commitments 💬, Possessing effective organisational skills and excellent working knowledge of General Development (Software and Web Development) 📫, looking for a job opportunity that will enhance my personal and professional growth, allowing me to take my knowledge and skills to the next level ⚡. 
   </h3>
 </div>
@@ -14,7 +14,19 @@
   
   ## 👨🏽‍💻 About Me:
   
+  ### Personal Interests 👯:
+  - Automatization process ⚙️ 🔩
+  - 3D Modeling And Prototypes Design 🔱 ⚜️
+  - Music - Piano 🎹 🎼 🎶
+  - Speedcubing 🧩
+  - Biking 🚵 🚲
+  - Teaching 👨🏽‍🏫
  
+  ### Professional Interests ✍🏽:
+  - I’m currently working on two personal projects: The Online Calculator, and The Sale Store 🔭
+  - I’m currently learning ...
+  
+  
 <!--
 **LuisRada/LuisRada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
