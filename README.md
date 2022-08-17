@@ -5,9 +5,9 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.instagram.com/luis.rada.10" target="_BLANK">
+  <a href="https://www.instagram.com/luis.rada.10">
     <img src="https://img.shields.io/badge/Instagram-@luis.rada.10-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010"
-      alt="Instagram" />
+      alt="Instagram" target="_BLANK" />
 </div>
 
  ---
