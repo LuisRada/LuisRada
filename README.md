@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 align="center"> Hi 👋, I'm Luis Rada</h1>
-  <h3 align="center"> I'm an enthusiastic Mechatronic Engineer student from Colombia 🇨🇴 😄, with great capacity and leadership to assume challenges and commitments 💬, Possessing effective organisational skills and excellent working knowledge of General Development (Software and Full-Stack Web Development) 📫, looking for a job opportunity that will enhance my personal and professional growth, allowing me to take my knowledge and skills to the next level ⚡. 
+  <h3 align="center"> I'm an enthusiastic Mechatronic Engineer student from Colombia 🇨🇴 😄, with great capacity and leadership to assume challenges and commitments 💬, Possessing effective organisational skills and excellent working knowledge of General Development (Software and Full-Stack Web Development) 📫, currently working as a GTM Engineer, always looking to take my knowledge and skills to the next level ⚡. 
   </h3>
 </div>
 
