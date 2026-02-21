@@ -6,7 +6,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/luis-rada-4a6748241/" target="_BLANK">
-    <img src="https://img.shields.io/badge/Linkedin-Luis Rada-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010"
+    <img src="https://img.shields.io/badge/Linkedin-Luis Rada-E4405F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"
      alt="Instagram" />
 </div>
 
